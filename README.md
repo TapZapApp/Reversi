@@ -37,4 +37,4 @@ This app is designed to adapt to different screen sizes so that you can enjoy th
 
 ## Contact me
 
-Email: tapzapapp@gmail.com
+Email: [tapzapapp@gmail.com](mailto:tapzapapp@gmail.com)
