@@ -2,7 +2,7 @@
 
 ## Download
 
-Play Store
+[Play Store](https://play.google.com/apps/testing/com.tapzapapp.reversi)
 
 ## Features
 
